@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.env
+# Generated at train time (pickles are scikit-learn-version specific)
+outputs/*
+!outputs/.gitkeep
