@@ -20,7 +20,7 @@ and explains the decision with extracted indicators (links, urgency language, cr
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phishing-email-detection.git
+git clone https://github.com/saksham-program/phishing-email-detection.git
 cd phishing-email-detection
 python -m venv .venv
 source .venv/bin/activate         # Windows: .venv\Scripts\activate
